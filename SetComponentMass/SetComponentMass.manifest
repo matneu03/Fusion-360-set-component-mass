@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"matneu03",
+	"description":	{
+		"":	"Set the mass of the active component using a new material with a density derived from the current volume and desired mass."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
